@@ -16,7 +16,7 @@
 
         }
 
-        if (contador != 2)
+        if  (contador != 2)
         {
             Console.WriteLine(" Não é numero primo");
         }
